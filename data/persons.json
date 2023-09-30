@@ -1,0 +1,26 @@
+[
+  {
+   "name": "Ace Goldbert",
+   "age": "25",
+   "profession": "Golfer",
+   "id": 1
+  },
+{
+  "name": "Alice Love",
+   "age": "23",
+   "profession": "Videographer",
+   "id": 2
+},
+  {
+  "name": "Bella Light",
+   "age": "26",
+   "profession": "Developer",
+   "id": 3
+},
+  {
+  "name": "Luke Bell",
+   "age": "24",
+   "profession": "Engineer",
+   "id": 4
+}
+]
