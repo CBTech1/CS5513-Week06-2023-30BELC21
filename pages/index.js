@@ -39,20 +39,3 @@ export default function Home({AllMaterial}){
   );
 }
 
-
-//code for my second json file
-/*
-    <h1> Some professions from different JS file but</h1>
-      <h1> using the same json file with new bootstrap classname</h1>
-            <div className="navbar navbar-light bg-light">
-        {AllMaterialTwo && AllMaterialTwo.map(
-            ({id, name}) => (
-             <Link key={id} href = {`/persons/${id}`} className = "navbar-brand">
-               {name}
-             </Link>
-            )
-          )
-        }
-      </div>
-
-  */
