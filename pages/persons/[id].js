@@ -1,4 +1,4 @@
-import Conception from '../components/layout';
+import Conception from '../../components/layout';
 import { getEachInfo, getData } from '../../lib/data-firebase';
 
 export async function getStaticProps( {params} ){
@@ -11,7 +11,7 @@ export async function getStaticProps( {params} ){
 }
 
 export async function getStaticPaths(){
- const paths = getEachInfo();
+ const paths = await getEachInfo();
   return{
     paths,
     fallback:false

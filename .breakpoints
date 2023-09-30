@@ -1,3 +1,12 @@
 {
-  "files": {}
+  "files": {
+    ".env.local": [
+      {
+        "id": "b2f3c949-a854-4069-afb3-1511c0989d74",
+        "line": 7,
+        "version": 198,
+        "index": 394
+      }
+    ]
+  }
 }
